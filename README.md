@@ -4,8 +4,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhno1023&show_icons=true&theme=default)
 
-<p>
 - 🌱 I’m currently learning 
+<p>
   <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/> 
+</p>
+<p>
+  <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
 </p>
