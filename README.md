@@ -3,7 +3,7 @@
 Email:
 <a href="mailto:hyeondnr1023@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hyeondnr1023@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-![Anurag's GitHub stats] https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=juhno1023&&show_icons=true&theme=tokyonight
+![Anurag's GitHub stats] (https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=juhno1023&&show_icons=true&theme=tokyonight)
 
 🌱 I’m currently learning 
 <p>
