@@ -20,4 +20,7 @@ Email:
 <p>
   Back-End :
   <img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MariaDb-white?style=flat-square&logo=MariaDB&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/AWS-orange?style=flat-square&logo=amazon&logoColor=white"/>
+  
 </p>
