@@ -4,10 +4,6 @@
 
 Email:
 <a href="mailto:hyeondnr1023@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hyeondnr1023@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhno1023&theme=default_repocard&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhno1023&layout=compact&hide=html&langs_count=8&card_width=300&bg_color=default1&text_color=defalut&icon_color=97c7fc&title_color=default)](https://github.com/anuraghazra/github-readme-stats)
- 
 🌱 I’m currently learning 
 <p>
   Lang :
