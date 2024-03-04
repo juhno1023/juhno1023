@@ -8,23 +8,25 @@
   
   ### 👋 Hi there 👋
   
-  Email:
+  #### Email:
   <a href="mailto:hyeondnr1023@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hyeondnr1023@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <p>
-    Lang :
+ #### Language :
+  <p>  
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>    
     <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/>
   </p>
-  <p>
-    Front-End : 
+  
+  #### Front-End : 
+  <p>  
     <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
   </p>
+  
+  #### Back-End :
   <p>
-    Back-End :
     <img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white"/> 
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/MariaDb-white?style=flat-square&logo=MariaDB&logoColor=blue"/>
