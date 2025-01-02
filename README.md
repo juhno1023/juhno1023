@@ -6,32 +6,64 @@
 
 <div align = center>
   
-  ### 👋 Hi there 👋
-  
-  #### Email:
-  <a href="mailto:hyeondnr1023@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hyeondnr1023@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
- #### Language :
-  <p>  
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>    
-    <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/>
-  </p>
-  
-  #### Front-End : 
-  <p>  
-    <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
-  </p>
-  
-  #### Back-End :
-  <p>
-    <img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/MariaDb-white?style=flat-square&logo=MariaDB&logoColor=blue"/>
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
-  </p>
+  ### 👋 Hi there, Welcome to my Github👋
+
+<h3 align="center">🛠 Experience 🛠</h3>
+<div align="center">
+  <strong>Undergraduate Researcher</strong> at <em>Dongguk University</em> (2023 - 2024)<br>
 </div>
 
+<h3 align="center">🎓 Education 🎓</h3>
+
+<div align="center">
+  <strong>Bachelor's in Computer Engineering</strong> - <em>Dongguk University</em> (2021 ~ )<br>
+  <strong>Teaching Assistant for 'Computer Algorithms and Practice'</strong> (2023 Sep - 2023 Dec)<br>
+</div>
+
+<h3 align="center"> 💻 Extracurricular activities 💻 </h3>
+
+<div align="center">
+  <strong>Academic manager of the CAPS (University Coding Club)</strong> (2021 Jun - 2022 Jun)<br>
+  <strong>Club President in the CAPS (University Coding Club)</strong> (2022 Jun - 2022 Dec)<br>
+  <strong>Club President in the MMS (University Band Club)</strong> (2023 Jun - 2024 Jun)<br>
+</div>
+
+<h3 align="center">📚 Research & Publications</h3>
+
+<div align="center">
+  <strong> 스마트미러 환경에서 장애인 / 노인 친화적 유니버셜 UI/UX 설계 </strong><br>
+  <em>2023 학부연구생 개별 연구 및 특허 출원 </em><br>
+  <br>
+  <strong> 저조도 환경에서 일반 RGB 및 열화상 카메라를 사용한 사람 인식에 대한 연구 </strong><br>
+  <a href="https://github.com/user-attachments/files/18291220/Paper_HyeonUk.pdf" target="_blank">[A Study on Human Recognition Using General
+RGB and Thermal Imaging Cameras in Low-Light Environment.pdf]</a> <br>
+  <em>2023 ICTC-2024 </em> 
+</div>
+
+<!--내용 부분-->
+<h3 align="center"> 🔧 Tech Stacks 🔧</h3>
+
+<!-- 프론트 부분 (HTML, CSS, JavaScript) -->
+<div align="center">
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
+</div>
+
+<!-- 백엔드 부분 (파이썬, 장고, 자바, 스프링) -->
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />    
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-navy?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</div>
+
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="mailto:hyeondnr1023@gmail.com">
+    <img
+      src="https://img.shields.io/badge/hyeondnr1023@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
